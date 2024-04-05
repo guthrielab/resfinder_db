@@ -4,7 +4,7 @@ ResFinder Database documentation
 The ResFinder database is a curated database of acquired resistance genes.
 
 ## TODO
-- [ ] Add *Mycobacterium abscessus* resistance genes and phenotypes
+- [x] Add *Mycobacterium abscessus* resistance genes and phenotypes
 - [ ] Add *Mycobacterium avium* resistance genes and phenotypes
 - [ ] Add *Mycobacterium fortuitum* resistance genes and phenotypes
 - [ ] Add *Mycobacterium kansasii* resistance genes and phenotypes
