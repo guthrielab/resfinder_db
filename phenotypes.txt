@@ -1840,6 +1840,7 @@ blaKPC-39_1_MK118771	Beta-lactam	Amoxicillin, Amoxicillin+Clavulanic acid, Ampic
 blaKLUC-3_1_JX185316	Beta-lactam	Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin	23056610	Enzymatic modification
 blaKLUC-4_1_JX185317	Beta-lactam	Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin	23056610	Enzymatic modification
 blaKLUC-2_1_EF057432	Beta-lactam	Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin	18625772	Enzymatic modification
+blaMAB_1_MAB_RS14580	Beta-lactam	Amoxicillin, Ampicillin, Piperacillin, Ticarcillin, Amoxicillin+Clavulanic acid, Ampicillin+Clavulanic acid, Piperacillin+Clavulanic acid, Ticarcillin+Clavulanic acid, Imipenem, Meropenem, Piperacillin+Tazobactam	24132992	Enzymatic modification		
 sul1_10_DQ143913	Folate pathway antagonist	Sulfamethoxazole	16304191	Purine synthesis
 sul1_11_DQ914960	Folate pathway antagonist	Sulfamethoxazole	17158944	Purine synthesis
 sul1_14_AJ517791	Folate pathway antagonist	Sulfamethoxazole	12654659	Purine synthesis
@@ -2666,6 +2667,7 @@ TOprJ1_1_MK347425	Tetracycline	Doxycycline, Tetracycline, Minocycline, Tigecycli
 TOprJ2_1_MN175502	Tetracycline	Doxycycline, Tetracycline, Minocycline, Tigecycline	33495220	Efflux pump Together with tmexC2 and tmexD2
 TOprJ3_1_LC633285	Tetracycline	Doxycycline, Tetracycline, Minocycline, Tigecycline	34346701	Efflux pump Together with tmexC3 and tmexD3
 TOprJ4_1_CP091084	Tetracycline	Doxycycline, Tetracycline, Minocycline, Tigecycline	35862955	Efflux pump Together with tmexC4 and tmexD4
+MabTetX_1_MAB1496c	Tetracycline	Doxycycline, Tetracycline, Minocycline	29632012	Efflux pump
 blaCARB-1_1_AF313471	Beta-lactam	Ampicillin, Amoxicillin, Piperacillin	11959558	Enzymatic inactivation	Class A;Alternative name PSE-4, BlaP1a
 blaCARB-2_1_M69058	Beta-lactam	Ampicillin, Amoxicillin, Piperacillin	1804019	Enzymatic inactivation	Class A;Alternative name PSE-1, BlaP1b
 blaCARB-3_1_S46063	Beta-lactam	Ampicillin, Amoxicillin, Piperacillin	1650733	Enzymatic inactivation	Class A;Alternative name PSE-3, BlaP1c
@@ -2739,6 +2741,7 @@ ARR-6_1_FM955585	Rifamycin	Rifampicin	19686278	Enzymatic inactivation
 ARR-6_2_FM897214	Rifamycin	Rifampicin	19686278	Enzymatic inactivation
 ARR-6_3_JF922883	Rifamycin	Rifampicin	22290946	Enzymatic inactivation
 ARR-7_1_FN397623	Rifamycin	Rifampicin	19884381	Enzymatic inactivation
+ARR-9_1_MAB_0591	Rifamycin	Rifampicin	18349144	Enzymatic inactivation
 nimA_1_X71444	Nitroimidazole	Metronidazole	8067736	Enzymatic inactivation	likely also resistance to tinidazole, nimorazole, dimetridazole, 6-Amino PA824, ornidazole, megazol, azanidazole
 nimB_1_X71443	Nitroimidazole	Metronidazole	8067736	Enzymatic inactivation	likely also resistance to tinidazole, nimorazole, dimetridazole, 6-Amino PA824, ornidazole, megazol, azanidazole
 nimC_1_X76948	Nitroimidazole	Metronidazole	7773395	Enzymatic inactivation	likely also resistance to tinidazole, nimorazole, dimetridazole, 6-Amino PA824, ornidazole, megazol, azanidazole
