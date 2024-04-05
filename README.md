@@ -3,6 +3,13 @@ ResFinder Database documentation
 
 The ResFinder database is a curated database of acquired resistance genes.
 
+## TODO
+- [ ] Add *Mycobacterium abscessus* resistance genes and phenotypes
+- [ ] Add *Mycobacterium avium* resistance genes and phenotypes
+- [ ] Add *Mycobacterium fortuitum* resistance genes and phenotypes
+- [ ] Add *Mycobacterium kansasii* resistance genes and phenotypes
+
+
 ## Content of the repository
 1. <AMR class>.fsa - DNA sequence of the genes from a specified AMR class
 2. phenotypes.txt - Translation table for genotype to phenotype prediction
