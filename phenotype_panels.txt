@@ -143,6 +143,14 @@ Tobramycin
 Trimethoprim
 Vancomycin
 
+:Panel: Mycobacterium abscessus
+Amikacin
+Clarithromycin
+Linezolid
+Levofloxacin
+Rifampicin
+Imipenem
+
 :Panel: Mycobacterium tuberculosis
 Amikacin
 Bedaquiline

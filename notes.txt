@@ -434,6 +434,7 @@ TOprJ1:Tetracycline resistance:
 TOprJ2:Tetracycline resistance:
 TOprJ3:Tetracycline resistance:
 TOprJ4:Tetracycline resistance:
+MabTetX:Tetracycline resistance:
 #Trimethoprim resistance
 dfrA1:Trimethoprim resistance:
 dfrA10:Trimethoprim resistance:
@@ -2178,6 +2179,7 @@ blaKPC-39:Beta-lactam resistance:
 blaKLUC-3:Beta-lactam resistance:
 blaKLUC-4:Beta-lactam resistance:
 blaKLUC-2:Beta-lactam resistance:
+blaMAB:Beta-lactam resistance:
 #Rifampicin resistance:
 ARR-1:Rifampicin resistance:
 ARR-2:Rifampicin resistance:
@@ -2186,6 +2188,7 @@ ARR-4:Rifampicin resistance:
 ARR-5:Rifampicin resistance:
 ARR-6:Rifampicin resistance:
 ARR-7:Rifampicin resistance:
+ARR-9:Rifampicin resistance:
 #Fosfomycin resistance:
 fomA:Fosfomycin resistance:
 fomB:Fosfomycin resistance:

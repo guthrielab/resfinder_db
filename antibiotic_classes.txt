@@ -12,7 +12,7 @@ Ionophores	Unknown Ionophores	Narasin	Salinomycin	Maduramicin
 Iminophenazine	Unknown Iminophenazine	Clofazimine
 Isonicotinic acid hydrazide	Unknown Isonicotinic acid hydrazide	Isoniazid
 Lincosamide	Unknown Lincosamide	Lincomycin	Clindamycin
-Macrolide	Unknown Macrolide	Carbomycin	Azithromycin	Oleandomycin	Spiramycin	Tylosin	Telithromycin	Erythromycin
+Macrolide	Unknown Macrolide	Carbomycin	Azithromycin	Oleandomycin	Spiramycin	Tylosin	Telithromycin	Erythromycin    Clarithromycin
 Nitroimidazole	Unknown Nitroimidazole	Metronidazole
 Oxazolidinone	Unknown Oxazolidinone	Linezolid
 Amphenicol	Unknown Amphenicol	Chloramphenicol	Florfenicol
