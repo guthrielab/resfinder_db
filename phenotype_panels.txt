@@ -151,6 +151,11 @@ Levofloxacin
 Rifampicin
 Imipenem
 
+:Panel: Mycobacterium avium
+Amikacin
+Clarithromycin
+Levofloxacin
+
 :Panel: Mycobacterium tuberculosis
 Amikacin
 Bedaquiline
